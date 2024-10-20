@@ -16,7 +16,7 @@
 
 ## 🌈 프로젝트 개요
 
-<p align="center"><img src="https://github.com/sigirace/spider/blob/main/images/example.png?raw=true" width="400" height="200"></p>
+<p align="center"><img src="https://github.com/sigirace/spider/blob/main/images/example.png?raw=true"></p>
 
 `Spider RAG`는 `LangGraph`를 활용하여 `RAG`를 구현한 챗봇 애플리케이션입니다. 이 앱은 보유한 문서 기반에서 관련 정보를 검색하고, 이를 생성 모델과 결합하여 더욱 정확하고 문맥에 맞는 응답을 제공합니다. 만약 보유한 문서로 답변을 할 수 없는 경우에는 `Web Search`를 통해 최신 정보를 검색하여 답변을 제공합니다. 또한 사용자의 대화를 기억하고 이를 기반으로 대화를 이어나가는 `멀티턴` 기능을 제공합니다. 이를통해 `Spider RAG`는 다양한 상황에서 보다 지능적이고 정보에 기반한 결과를 제공할 수 있습니다.
 
